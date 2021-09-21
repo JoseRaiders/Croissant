@@ -1,0 +1,23 @@
+body {
+    margin: 60px auto;
+    max-width: 800px;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px auto;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+.contact-link {
+    text-align: center;
+}
+
+a {
+    color: #FF4C29;
+}   
